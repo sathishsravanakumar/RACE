@@ -44,13 +44,13 @@ Modern large language models face critical limitations in medical applications:
 User Query
     ↓
 ┌───────────────────────────────────────┐
-│   RAG Retrieval Layer (ChromaDB)     │
-│   • Semantic search (all-MiniLM-L6)  │
+│   RAG Retrieval Layer (ChromaDB)      │
+│   • Semantic search (all-MiniLM-L6)   │
 │   • Top-K evidence retrieval          │
 └───────────────────────────────────────┘
     ↓
 ┌───────────────────────────────────────┐
-│   Fine-Tuned LLM (Llama-3-8B)        │
+│   Fine-Tuned LLM (Llama-3-8B)         │
 │   • QLoRA adapters (r=16)             │
 │   • 4-bit NF4 quantization            │
 │   • Chain-of-thought reasoning        │
