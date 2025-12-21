@@ -278,45 +278,42 @@ class ClinicalReasoningEngine:
         ).to(self.model.device)
 
         # Generate
-        try:
-            with torch.no_grad():
-                outputs = self.model.generate(
-                    **inputs,
-                    max_new_tokens=max_new_tokens,
-                    temperature=temperature,
-                    top_p=top_p,
-                    top_k=top_k,
-                    do_sample=True,
-                    pad_token_id=self.tokenizer.eos_token_id,
-                    eos_token_id=self.tokenizer.eos_token_id,
-                )
+        with torch.no_grad():
+            outputs = self.model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                temperature=temperature,
+                top_p=top_p,
+                top_k=top_k,
+                do_sample=True,
+                pad_token_id=self.tokenizer.eos_token_id,
+                eos_token_id=self.tokenizer.eos_token_id,
+                repetition_penalty=1.1,  # Prevent repetition
+                no_repeat_ngram_size=3,   # Avoid repeating phrases
+            )
 
-            # Decode response
-            full_response = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        # Decode response
+        full_response = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
 
-            # Extract only the generated answer (remove prompt)
-            if not return_full_text and "### Answer:" in full_response:
-                generated_answer = full_response.split("### Answer:")[-1].strip()
+        # Extract only the generated answer (remove prompt)
+        if "### Answer:" in full_response:
+            # Split by the Answer marker and take everything after it
+            generated_answer = full_response.split("### Answer:")[-1].strip()
+        elif "### Question:" in full_response:
+            # If the model includes the full template, extract just the answer part
+            parts = full_response.split("###")
+            for i, part in enumerate(parts):
+                if "Answer:" in part:
+                    generated_answer = part.replace("Answer:", "").strip()
+                    break
             else:
-                # If no ### Answer: marker found, take everything after the prompt
-                if prompt in full_response:
-                    generated_answer = full_response.replace(prompt, "").strip()
-                else:
-                    generated_answer = full_response
+                # Fallback: take everything after the original prompt
+                generated_answer = full_response[len(prompt):].strip()
+        else:
+            # Take everything after the prompt
+            generated_answer = full_response[len(prompt):].strip()
 
-            # Fallback if generation is empty or just repeats prompt
-            if not generated_answer or len(generated_answer) < 20:
-                # Use first retrieved document as fallback
-                generated_answer = f"Based on the retrieved medical guidelines:\n\n{context[:500]}..."
-
-            print(f"[OK] Response generated ({len(generated_answer)} characters)")
-
-        except Exception as e:
-            print(f"[WARNING] Model generation failed: {e}")
-            print("[OK] Using fallback: returning retrieved context")
-            # Fallback: provide context-based answer
-            generated_answer = f"Based on the retrieved medical guidelines:\n\n{context}"
-            full_response = prompt + "\n" + generated_answer
+        print(f"[OK] Response generated ({len(generated_answer)} characters)")
 
         # Prepare result
         result = {
