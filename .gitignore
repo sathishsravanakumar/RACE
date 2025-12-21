@@ -4,6 +4,11 @@
 # Documentation files
 *.md
 
+# Office documents (project-specific files)
+*.docx
+*.xlsx
+*.pptx
+
 # Python cache
 __pycache__/
 *.pyc
@@ -14,8 +19,14 @@ __pycache__/
 venv/
 env/
 
-# Model files (too large for git)
+# ChromaDB (regenerable with ingest.py)
+chroma_db/
+
+# Model files (too large for git, regenerable with train.py)
 models/race_adapter/
+models/*.pt
+models/*.bin
+models/*.safetensors
 
 # IDE
 .vscode/
@@ -26,3 +37,14 @@ models/race_adapter/
 # OS
 .DS_Store
 Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Logs
+*.log
+logs/
+
+# Claude Code files
+.claude/
