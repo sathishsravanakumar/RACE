@@ -80,7 +80,7 @@ class ClinicalReasoningEngine:
         self._load_model_and_tokenizer()
 
         print("\n" + "=" * 70)
-        print("✓ Clinical Reasoning Engine Ready")
+        print("[OK] Clinical Reasoning Engine Ready")
         print("=" * 70)
 
     def _load_vector_store(self, chroma_db_dir: str, embedding_model: str):
@@ -111,10 +111,10 @@ class ClinicalReasoningEngine:
 
         # Verify database has content
         collection_count = self.vectorstore._collection.count()
-        print(f"✓ Vector store loaded ({collection_count} documents)")
+        print(f"[OK] Vector store loaded ({collection_count} documents)")
 
         if collection_count == 0:
-            print("⚠ WARNING: Vector store is empty!")
+            print("[WARNING] Vector store is empty!")
 
     def _load_model_and_tokenizer(self):
         """Load base model with adapter and tokenizer."""
@@ -125,7 +125,7 @@ class ClinicalReasoningEngine:
         # Check if adapter exists
         adapter_exists = os.path.exists(self.adapter_path)
         if not adapter_exists:
-            print(f"⚠ WARNING: Adapter not found at {self.adapter_path}")
+            print(f"[WARNING] Adapter not found at {self.adapter_path}")
             print("  Loading base model without fine-tuning...")
 
         # Configure quantization
@@ -163,9 +163,9 @@ class ClinicalReasoningEngine:
                 self.adapter_path,
                 is_trainable=False
             )
-            print(f"✓ Model loaded with fine-tuned adapter")
+            print(f"[OK] Model loaded with fine-tuned adapter")
         else:
-            print(f"✓ Base model loaded (no adapter)")
+            print(f"[OK] Base model loaded (no adapter)")
 
         # Set to evaluation mode
         self.model.eval()
@@ -257,7 +257,7 @@ class ClinicalReasoningEngine:
         print("[Step 1/2] Retrieving relevant context from knowledge base...")
         retrieved_docs = self.retrieve(query, top_k=2)
 
-        print(f"✓ Retrieved {len(retrieved_docs)} relevant chunks:")
+        print(f"[OK] Retrieved {len(retrieved_docs)} relevant chunks:")
         for i, doc in enumerate(retrieved_docs, 1):
             preview = doc["content"][:100].replace('\n', ' ')
             print(f"  [{i}] {preview}...")
@@ -299,7 +299,7 @@ class ClinicalReasoningEngine:
         else:
             generated_answer = full_response
 
-        print(f"✓ Response generated ({len(generated_answer)} characters)")
+        print(f"[OK] Response generated ({len(generated_answer)} characters)")
 
         # Prepare result
         result = {
