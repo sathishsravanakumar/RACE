@@ -13,8 +13,8 @@ from langchain_community.vectorstores import Chroma
 DATA_FILE = "data/clinical_guidelines.txt"
 CHROMA_DB_DIR = "chroma_db"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 1000  # Increased to capture complete paragraphs
+CHUNK_OVERLAP = 100  # Proportional overlap
 COLLECTION_NAME = "clinical_guidelines"
 
 
