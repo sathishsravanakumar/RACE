@@ -1,0 +1,108 @@
+COMPREHENSIVE CLINICAL PRACTICE GUIDELINES
+
+================================================================================
+SECTION 1: TYPE 2 DIABETES MELLITUS MANAGEMENT
+================================================================================
+
+First-Line Pharmacological Therapy:
+Metformin is recommended as the first-line pharmacological agent for the treatment of type 2 diabetes mellitus in adults. The initial dosage should be 500 mg once or twice daily with meals to minimize gastrointestinal side effects. The dose can be gradually increased by 500 mg weekly to a maximum of 2000-2550 mg per day in divided doses. Extended-release formulations may be administered once daily with the evening meal and can improve tolerability. Metformin works by decreasing hepatic glucose production, reducing intestinal absorption of glucose, and improving insulin sensitivity by increasing peripheral glucose uptake and utilization. It has the advantage of being weight-neutral or associated with modest weight loss, and it does not cause hypoglycemia when used as monotherapy.
+
+Contraindications and Precautions for Metformin:
+Metformin is contraindicated in patients with severe renal impairment (eGFR below 30 mL/min/1.73 m²), acute or chronic metabolic acidosis including diabetic ketoacidosis, and in patients with severe hepatic disease. Caution should be exercised in patients with eGFR between 30-45 mL/min/1.73 m², with dose reduction recommended and regular monitoring of renal function required. The medication should be temporarily discontinued before procedures involving iodinated contrast media and withheld for 48 hours post-procedure until renal function is confirmed to be stable. Patients should be counseled about the rare but serious risk of lactic acidosis, particularly those with conditions that predispose to hypoperfusion and hypoxemia such as sepsis, acute heart failure, or respiratory failure. Common side effects include diarrhea, nausea, and abdominal discomfort, which typically improve over time with continued use.
+
+Insulin Initiation Criteria and Protocol:
+Insulin therapy should be initiated in patients with type 2 diabetes when glycemic targets are not achieved with oral agents and lifestyle modifications, or in the presence of severe hyperglycemia (random glucose >300 mg/dL or HbA1c >10%), symptomatic hyperglycemia, or catabolic features such as weight loss or ketosis. Basal insulin is typically the preferred initial insulin regimen, starting with 10 units or 0.1-0.2 units/kg of body weight once daily, usually administered at bedtime. NPH insulin, insulin glargine, insulin detemir, or insulin degludec may be used as basal insulin options. The dose should be titrated every 3-7 days based on fasting glucose measurements, with an increase of 2-4 units if fasting glucose remains above target. The target fasting glucose is generally 80-130 mg/dL. If HbA1c targets are not met after 3 months despite optimized basal insulin (typically 0.5 units/kg/day), the addition of prandial insulin should be considered, starting with the largest meal and expanding to other meals as needed.
+
+Combination Therapy and Intensification:
+When metformin monotherapy fails to achieve glycemic targets (HbA1c <7% for most patients), a second agent should be added based on patient-specific factors including cardiovascular disease risk, chronic kidney disease, risk of hypoglycemia, impact on weight, cost, and patient preferences. GLP-1 receptor agonists such as semaglutide, dulaglutide, or liraglutide are preferred add-on agents in patients with established atherosclerotic cardiovascular disease or high cardiovascular risk, as they have demonstrated cardiovascular benefits and promote weight loss. SGLT2 inhibitors like empagliflozin, canagliflozin, or dapagliflozin are recommended in patients with heart failure or chronic kidney disease with albuminuria due to their renal and cardiac protective effects. DPP-4 inhibitors such as sitagliptin or linagliptin are alternative options with neutral effects on weight and low hypoglycemia risk. Sulfonylureas and thiazolidinediones are less preferred due to adverse effects including hypoglycemia and weight gain, though they remain cost-effective options in resource-limited settings. Triple therapy combining metformin with two additional agents from different classes may be necessary before progressing to insulin therapy.
+
+================================================================================
+SECTION 2: HYPERTENSION MANAGEMENT
+================================================================================
+
+Blood Pressure Classification and Targets:
+Hypertension is defined as systolic blood pressure of 130 mmHg or higher, or diastolic blood pressure of 80 mmHg or higher, based on an average of two or more careful readings obtained on two or more occasions. Stage 1 hypertension is defined as systolic BP 130-139 mmHg or diastolic BP 80-89 mmHg. Stage 2 hypertension is systolic BP 140 mmHg or higher, or diastolic BP 90 mmHg or higher. The general BP target for most adults with hypertension is less than 130/80 mmHg. For adults 65 years and older, a systolic BP target of less than 130 mmHg may be reasonable if it can be safely achieved. In patients with chronic kidney disease or diabetes, the target remains less than 130/80 mmHg.
+
+First-Line Antihypertensive Therapy:
+For most patients with stage 1 hypertension and a 10-year atherosclerotic cardiovascular disease (ASCVD) risk of 10% or greater, or for those with stage 2 hypertension, pharmacological therapy should be initiated along with lifestyle modifications. First-line agents include thiazide diuretics (chlorthalidone 12.5-25 mg daily or hydrochlorothiazide 25-50 mg daily), ACE inhibitors (lisinopril 10-40 mg daily, enalapril 5-40 mg daily), angiotensin receptor blockers (losartan 50-100 mg daily, olmesartan 20-40 mg daily), or calcium channel blockers (amlodipine 5-10 mg daily, diltiazem extended-release 120-360 mg daily). Selection should be based on patient-specific factors including race, age, presence of compelling indications, and side effect profile.
+
+Special Populations and Compelling Indications:
+In Black patients, initial therapy should preferably include a thiazide diuretic or calcium channel blocker. In patients with chronic kidney disease and albuminuria, an ACE inhibitor or ARB is preferred as initial therapy. For patients with heart failure with reduced ejection fraction, the combination of an ACE inhibitor or ARB with a beta-blocker, aldosterone antagonist, and diuretic is recommended. In coronary artery disease, beta-blockers and ACE inhibitors or ARBs are preferred. Pregnant women with hypertension should be treated with methyldopa, labetalol, or long-acting nifedipine, as ACE inhibitors and ARBs are contraindicated in pregnancy.
+
+================================================================================
+SECTION 3: HYPERLIPIDEMIA AND STATIN THERAPY
+================================================================================
+
+Cardiovascular Risk Assessment and Statin Indications:
+Statin therapy is indicated for primary prevention in adults aged 40-75 years with LDL cholesterol 70-189 mg/dL and a 10-year ASCVD risk of 7.5% or higher. For secondary prevention, high-intensity statin therapy is recommended for all patients with established ASCVD, including those with coronary heart disease, stroke, transient ischemic attack, or peripheral artery disease. High-intensity statins (atorvastatin 40-80 mg or rosuvastatin 20-40 mg) lower LDL cholesterol by approximately 50% or more. Moderate-intensity statins (atorvastatin 10-20 mg, rosuvastatin 5-10 mg, simvastatin 20-40 mg, pravastatin 40-80 mg) lower LDL by 30-49%.
+
+Monitoring and Management of Statin Therapy:
+Baseline lipid panel and hepatic transaminases should be obtained before initiating statin therapy. LDL cholesterol should be rechecked 4-12 weeks after statin initiation or dose adjustment to assess response and adherence. The goal is to achieve at least a 50% reduction in LDL cholesterol for high-intensity therapy and 30-49% reduction for moderate-intensity therapy. Liver enzymes (ALT/AST) should be measured if symptoms suggest hepatotoxicity. Routine monitoring of liver enzymes is not necessary in asymptomatic patients. Creatine kinase should be measured if muscle symptoms develop. Statins should be discontinued if CK is more than 10 times the upper limit of normal or if significant muscle symptoms with CK elevation occur.
+
+Statin-Associated Muscle Symptoms and Alternatives:
+Statin-associated muscle symptoms (SAMS) occur in approximately 10-15% of patients and include myalgia, muscle weakness, or cramps. Management includes discontinuing the statin, assessing for other causes, allowing symptoms to resolve, and then reinitiating the same or a different statin at a lower dose. If symptoms recur with multiple statins, consider alternate-day dosing, using a different statin, or adding ezetimibe 10 mg daily to a lower-dose statin. In patients with statin intolerance, alternative agents include ezetimibe (reduces LDL by 15-20%), PCSK9 inhibitors (evolocumab or alirocumab, reduce LDL by 50-60%), or bempedoic acid (reduces LDL by 15-25%).
+
+================================================================================
+SECTION 4: HEART FAILURE MANAGEMENT
+================================================================================
+
+Classification and Diagnosis:
+Heart failure is classified using the New York Heart Association (NYHA) functional classification. Class I: no limitation of physical activity. Class II: slight limitation with ordinary activity causing fatigue or dyspnea. Class III: marked limitation with less than ordinary activity causing symptoms. Class IV: symptoms at rest. Heart failure is also categorized by ejection fraction: HFrEF (heart failure with reduced ejection fraction, EF ≤40%), HFmrEF (mildly reduced EF 41-49%), and HFpEF (preserved EF ≥50%). Diagnosis requires symptoms and signs of heart failure plus objective evidence of cardiac dysfunction, preferably by echocardiography.
+
+Pharmacological Management of HFrEF:
+The cornerstone of HFrEF therapy includes four medication classes that reduce mortality and hospitalization. ACE inhibitors (or ARBs if ACE-intolerant) should be initiated at low doses and titrated to target: enalapril 10 mg twice daily, lisinopril 20-40 mg daily, or losartan 50-150 mg daily. Beta-blockers proven to reduce mortality include carvedilol (starting 3.125 mg twice daily, target 25-50 mg twice daily), metoprolol succinate (starting 12.5-25 mg daily, target 200 mg daily), or bisoprolol (starting 1.25 mg daily, target 10 mg daily). Mineralocorticoid receptor antagonists (spironolactone 25-50 mg daily or eplerenone 25-50 mg daily) should be added in patients with NYHA class II-IV symptoms. SGLT2 inhibitors (dapagliflozin 10 mg daily or empagliflozin 10 mg daily) have demonstrated significant reduction in heart failure hospitalizations and cardiovascular mortality.
+
+Diuretic Therapy and Volume Management:
+Loop diuretics are essential for managing fluid overload in heart failure. Furosemide is the most commonly used, starting at 20-40 mg daily and titrating based on response and symptoms. Torsemide (10-20 mg daily) has better bioavailability and may be preferred in patients with gut edema. In diuretic-resistant patients, combination therapy with a loop diuretic plus thiazide (hydrochlorothiazide or metolazone) may be necessary, but requires close monitoring for electrolyte abnormalities and renal function. Daily weights should be monitored, and patients should be educated about adjusting diuretic doses based on weight changes. Target is euvolemia without symptoms of congestion.
+
+================================================================================
+SECTION 5: CHRONIC KIDNEY DISEASE
+================================================================================
+
+Staging and Risk Stratification:
+Chronic kidney disease is defined as kidney damage or decreased kidney function (eGFR <60 mL/min/1.73 m²) for 3 or more months. CKD is staged based on eGFR: Stage 1 (eGFR ≥90 with kidney damage), Stage 2 (eGFR 60-89 with damage), Stage 3a (eGFR 45-59), Stage 3b (eGFR 30-44), Stage 4 (eGFR 15-29), Stage 5 (eGFR <15 or dialysis). Albuminuria is categorized as: A1 (<30 mg/g), A2 (30-300 mg/g, moderately increased), A3 (>300 mg/g, severely increased). Risk of progression and cardiovascular events increases with lower eGFR and higher albuminuria.
+
+Blood Pressure Management in CKD:
+Blood pressure target in CKD is generally <130/80 mmHg, particularly in patients with albuminuria. ACE inhibitors or ARBs are first-line agents in CKD patients with albuminuria (regardless of diabetes status) due to their demonstrated benefits in slowing CKD progression. Initial dose should be low with gradual titration. An increase in serum creatinine up to 30% above baseline is acceptable after ACE inhibitor or ARB initiation and does not require discontinuation unless hyperkalemia develops. Potassium should be monitored 1-2 weeks after initiation or dose adjustment. These agents should be held during acute illness with risk of volume depletion.
+
+Diabetes Management and CKD:
+Glycemic control in diabetic patients with CKD aims for HbA1c <7% for most patients, though targets may be individualized. Metformin can be used cautiously with eGFR >30 mL/min/1.73 m², with dose reduction when eGFR is 30-45 mL/min/1.73 m². It should be avoided when eGFR is <30. SGLT2 inhibitors have demonstrated significant renoprotective effects and are indicated in diabetic patients with CKD and albuminuria (eGFR ≥20 mL/min/1.73 m²). GLP-1 receptor agonists show cardiovascular and potential renal benefits. Insulin dosing may need adjustment as CKD progresses due to reduced renal clearance. Sulfonylureas requiring renal clearance should be avoided or used cautiously.
+
+================================================================================
+SECTION 6: ANTICOAGULATION THERAPY
+================================================================================
+
+Atrial Fibrillation and Stroke Prevention:
+Anticoagulation for stroke prevention in atrial fibrillation should be guided by the CHA2DS2-VASc score: Congestive heart failure (1 point), Hypertension (1), Age ≥75 (2), Diabetes (1), Stroke/TIA/thromboembolism (2), Vascular disease (1), Age 65-74 (1), Sex category female (1). Anticoagulation is recommended for men with score ≥2 and women with score ≥3. Direct oral anticoagulants (DOACs) are preferred over warfarin: apixaban 5 mg twice daily, rivaroxaban 20 mg daily, edoxaban 60 mg daily, or dabigatran 150 mg twice daily. Dose reductions are needed based on renal function, age, and weight. Warfarin (target INR 2-3) is appropriate when DOACs are contraindicated or in patients with mechanical heart valves or moderate-to-severe mitral stenosis.
+
+Venous Thromboembolism Treatment:
+Acute DVT or pulmonary embolism requires immediate anticoagulation. Initial treatment can be with low molecular weight heparin (enoxaparin 1 mg/kg subcutaneously every 12 hours) or unfractionated heparin, overlapped with warfarin for at least 5 days until INR is therapeutic for 24 hours. Alternatively, DOACs can be used, with some requiring initial parenteral therapy (rivaroxaban and apixaban do not). Treatment duration is at least 3 months for provoked VTE. Unprovoked VTE, recurrent VTE, or VTE with cancer requires extended or indefinite anticoagulation. Factor Xa inhibitors (apixaban, rivaroxaban, edoxaban) or dabigatran are preferred over warfarin for most patients due to similar efficacy with lower bleeding risk.
+
+Anticoagulation Monitoring and Reversal:
+Warfarin requires regular INR monitoring with target 2-3 for most indications. INR should be checked 2-3 times weekly initially until stable, then monthly when consistently therapeutic. DOACs do not require routine monitoring but renal function should be assessed at initiation and annually (or more frequently in CKD). For major bleeding on warfarin, give vitamin K 10 mg IV and 4-factor prothrombin complex concentrate. For DOAC-related bleeding, specific reversal agents are available: idarucizumab for dabigatran, andexanet alfa for factor Xa inhibitors. Minor bleeding may be managed with temporary drug discontinuation and local measures.
+
+================================================================================
+SECTION 7: ASTHMA MANAGEMENT
+================================================================================
+
+Classification and Diagnosis:
+Asthma is characterized by variable respiratory symptoms (wheeze, shortness of breath, chest tightness, cough) and variable expiratory airflow limitation. Diagnosis requires demonstration of variable airflow limitation: FEV1/FVC ratio <0.70 and FEV1 improvement ≥12% and ≥200 mL after bronchodilator, or positive bronchial challenge test. Asthma severity is classified as intermittent, mild persistent (symptoms >2 days/week but not daily), moderate persistent (daily symptoms), or severe persistent (symptoms throughout the day). Control is assessed by daytime symptoms, nighttime awakening, reliever use, and activity limitation.
+
+Stepwise Pharmacological Management:
+Step 1 (intermittent): as-needed short-acting beta-agonist (SABA) such as albuterol 2 puffs as needed. Step 2 (mild persistent): daily low-dose inhaled corticosteroid (ICS) plus as-needed SABA. Preferred options include beclomethasone 80-240 mcg/day, budesonide 180-600 mcg/day, or fluticasone 88-264 mcg/day. Step 3 (moderate): low-dose ICS/long-acting beta-agonist (LABA) combination such as fluticasone/salmeterol 100/50 or budesonide/formoterol 80/4.5. Step 4: medium-dose ICS/LABA. Step 5 (severe): high-dose ICS/LABA plus consider add-on therapy with tiotropium, biologics (omalizumab, mepolizumab, benralizumab, dupilumab), or oral corticosteroids as last resort.
+
+Acute Exacerbation Management:
+Mild-to-moderate exacerbations can be managed with increased SABA use (2-4 puffs every 20 minutes for first hour, then every 3-4 hours). Severe exacerbations require emergency department evaluation: continuous nebulized albuterol or albuterol 2.5-5 mg nebulized every 20 minutes, ipratropium bromide 0.5 mg nebulized combined with albuterol, systemic corticosteroids (prednisone 40-60 mg orally or methylprednisolone 40-80 mg IV), and oxygen to maintain saturation >90%. Criteria for hospitalization include oxygen saturation <90%, accessory muscle use, inability to speak in full sentences, peak flow <40% predicted after initial treatment, or inadequate response to treatment. Magnesium sulfate 2 g IV may be considered for severe exacerbations not responding to initial therapy.
+
+================================================================================
+SECTION 8: COPD MANAGEMENT
+================================================================================
+
+Diagnosis and Spirometric Classification:
+Chronic obstructive pulmonary disease is characterized by persistent respiratory symptoms and airflow limitation due to airway and/or alveolar abnormalities, usually caused by significant exposure to noxious particles or gases. Diagnosis requires post-bronchodilator FEV1/FVC <0.70. GOLD spirometric grades: Grade 1 (mild): FEV1 ≥80% predicted; Grade 2 (moderate): 50% ≤ FEV1 <80%; Grade 3 (severe): 30% ≤ FEV1 <50%; Grade 4 (very severe): FEV1 <30%. The GOLD ABCD assessment tool classifies patients based on symptoms (using mMRC dyspnea scale or CAT score) and exacerbation history to guide treatment.
+
+Bronchodilator Therapy:
+Long-acting bronchodilators are the foundation of COPD pharmacotherapy. Long-acting muscarinic antagonists (LAMAs) such as tiotropium 18 mcg inhaled daily, umeclidinium 62.5 mcg daily, or glycopyrrolate 15.6 mcg twice daily are preferred initial therapy. Long-acting beta-agonists (LABAs) include salmeterol 50 mcg twice daily, formoterol 12 mcg twice daily, indacaterol 75 mcg daily, or olodaterol 5 mcg daily. For patients remaining symptomatic on monotherapy, combination LAMA/LABA therapy is recommended (umeclidinium/vilanterol, tiotropium/olodaterol, glycopyrrolate/formoterol). Short-acting bronchodilators (albuterol, ipratropium) are used as rescue therapy.
+
+Inhaled Corticosteroids and Triple Therapy:
+Inhaled corticosteroids should be added to LAMA/LABA therapy (triple therapy) in patients with frequent exacerbations (≥2 moderate exacerbations or ≥1 hospitalization in the previous year) and/or blood eosinophil count ≥300 cells/μL. Available triple therapy combinations include fluticasone furoate/umeclidinium/vilanterol, budesonide/glycopyrrolate/formoterol, and beclomethasone/glycopyrrolate/formoterol. ICS use is associated with increased pneumonia risk, which must be weighed against exacerbation prevention benefits. ICS should be withdrawn in patients without frequent exacerbations and low eosinophil counts. Oral corticosteroids should be avoided for chronic management due to systemic side effects but may be used for acute exacerbations (prednisone 40 mg daily for 5 days).

@@ -1,0 +1,28 @@
+# Environment variables (contains sensitive tokens)
+.env
+
+# Documentation files
+*.md
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Model files (too large for git)
+models/race_adapter/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
