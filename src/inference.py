@@ -27,7 +27,7 @@ EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "clinical_guidelines"
 
 # Generation Parameters
-MAX_NEW_TOKENS = 256
+MAX_NEW_TOKENS = 128  # Reduced for concise answers
 TEMPERATURE = 0.7
 TOP_P = 0.9
 TOP_K = 50
@@ -216,7 +216,14 @@ class ClinicalReasoningEngine:
         ### Answer:
         """
         prompt = f"""### Context: {context}
+
 ### Question: {query}
+
+### Instructions: Provide ONLY 2 sentences:
+Sentence 1: Direct answer with specific dosage/recommendation.
+Sentence 2: Brief explanation of WHY (one key reason/mechanism).
+DO NOT write more than 2 sentences. Be concise.
+
 ### Answer:"""
 
         return prompt
