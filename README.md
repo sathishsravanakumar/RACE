@@ -113,7 +113,7 @@ nvidia-smi
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/RACE.git
+git clone https://github.com/sathishsravanakumar/RACE.git
 cd RACE
 ```
 
