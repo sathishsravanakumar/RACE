@@ -261,7 +261,7 @@ This is a portfolio project demonstrating ML Engineering capabilities. For colla
 
 - **Issues**: Report bugs or suggest features via GitHub Issues
 - **Pull Requests**: Contributions welcome (please open issue first)
-- **Contact**: [Your Email] | [LinkedIn Profile]
+- **Contact**: sathishsravanakumar@gmail.com
 
 ---
 
